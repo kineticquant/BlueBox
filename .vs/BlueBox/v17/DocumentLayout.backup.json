@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\windows bluebox\\BlueBox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C716AC4-2D59-4B4A-9AB2-D4242DF453D1}|BlueBox.csproj|h:\\windows bluebox\\bluebox\\outlineform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C716AC4-2D59-4B4A-9AB2-D4242DF453D1}|BlueBox.csproj|solutionrelative:outlineform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C716AC4-2D59-4B4A-9AB2-D4242DF453D1}|BlueBox.csproj|h:\\windows bluebox\\bluebox\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C716AC4-2D59-4B4A-9AB2-D4242DF453D1}|BlueBox.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C716AC4-2D59-4B4A-9AB2-D4242DF453D1}|BlueBox.csproj|H:\\windows bluebox\\BlueBox\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C716AC4-2D59-4B4A-9AB2-D4242DF453D1}|BlueBox.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C716AC4-2D59-4B4A-9AB2-D4242DF453D1}|BlueBox.csproj|h:\\windows bluebox\\bluebox\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C716AC4-2D59-4B4A-9AB2-D4242DF453D1}|BlueBox.csproj|solutionrelative:main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C716AC4-2D59-4B4A-9AB2-D4242DF453D1}|BlueBox.csproj|h:\\windows bluebox\\bluebox\\outlineform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C716AC4-2D59-4B4A-9AB2-D4242DF453D1}|BlueBox.csproj|solutionrelative:outlineform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C716AC4-2D59-4B4A-9AB2-D4242DF453D1}|BlueBox.csproj|H:\\windows bluebox\\BlueBox\\outlineform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C716AC4-2D59-4B4A-9AB2-D4242DF453D1}|BlueBox.csproj|solutionrelative:outlineform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C716AC4-2D59-4B4A-9AB2-D4242DF453D1}|BlueBox.csproj|h:\\windows bluebox\\bluebox\\win32api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C716AC4-2D59-4B4A-9AB2-D4242DF453D1}|BlueBox.csproj|solutionrelative:win32api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C716AC4-2D59-4B4A-9AB2-D4242DF453D1}|BlueBox.csproj|h:\\windows bluebox\\bluebox\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C716AC4-2D59-4B4A-9AB2-D4242DF453D1}|BlueBox.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C716AC4-2D59-4B4A-9AB2-D4242DF453D1}|BlueBox.csproj|h:\\windows bluebox\\bluebox\\bluebox.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5C716AC4-2D59-4B4A-9AB2-D4242DF453D1}|BlueBox.csproj|solutionrelative:bluebox.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "H:\\windows bluebox\\BlueBox\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "H:\\windows bluebox\\BlueBox\\Main.cs [Design]",
+              "RelativeToolTip": "Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T18:54:33.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OutlineForm.cs",
+              "DocumentMoniker": "H:\\windows bluebox\\BlueBox\\OutlineForm.cs",
+              "RelativeDocumentMoniker": "OutlineForm.cs",
+              "ToolTip": "H:\\windows bluebox\\BlueBox\\OutlineForm.cs",
+              "RelativeToolTip": "OutlineForm.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwCAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T18:41:21.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OutlineForm.Designer.cs",
+              "DocumentMoniker": "H:\\windows bluebox\\BlueBox\\OutlineForm.Designer.cs",
+              "RelativeDocumentMoniker": "OutlineForm.Designer.cs",
+              "ToolTip": "H:\\windows bluebox\\BlueBox\\OutlineForm.Designer.cs",
+              "RelativeToolTip": "OutlineForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T18:40:56.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.Designer.cs",
+              "DocumentMoniker": "H:\\windows bluebox\\BlueBox\\Main.Designer.cs",
+              "RelativeDocumentMoniker": "Main.Designer.cs",
+              "ToolTip": "H:\\windows bluebox\\BlueBox\\Main.Designer.cs",
+              "RelativeToolTip": "Main.Designer.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T18:33:16.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs",
+              "DocumentMoniker": "H:\\windows bluebox\\BlueBox\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "H:\\windows bluebox\\BlueBox\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AgIAAOMAAAAAAAAAAAAIwB0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T18:35:09.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OutlineForm.cs [Design]",
+              "DocumentMoniker": "H:\\windows bluebox\\BlueBox\\OutlineForm.cs",
+              "RelativeDocumentMoniker": "OutlineForm.cs",
+              "ToolTip": "H:\\windows bluebox\\BlueBox\\OutlineForm.cs [Design]",
+              "RelativeToolTip": "OutlineForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T18:33:11.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\windows bluebox\\BlueBox\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "H:\\windows bluebox\\BlueBox\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T18:32:46.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BlueBox",
+              "DocumentMoniker": "H:\\windows bluebox\\BlueBox\\BlueBox.csproj",
+              "RelativeDocumentMoniker": "BlueBox.csproj",
+              "ToolTip": "H:\\windows bluebox\\BlueBox\\BlueBox.csproj",
+              "RelativeToolTip": "BlueBox.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-24T18:28:43.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Win32API.cs",
+              "DocumentMoniker": "H:\\windows bluebox\\BlueBox\\Win32API.cs",
+              "RelativeDocumentMoniker": "Win32API.cs",
+              "ToolTip": "H:\\windows bluebox\\BlueBox\\Win32API.cs",
+              "RelativeToolTip": "Win32API.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwDIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T18:26:16.66Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
