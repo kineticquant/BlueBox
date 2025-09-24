@@ -177,7 +177,7 @@ namespace BlueBox
             outline.SetStyle(color, thickness);
         }
 
-       
+
         private void UpdateAllBordersPositions()
         {
             foreach (var hWnd in _activeOutlines.Keys)
@@ -274,5 +274,15 @@ namespace BlueBox
             });
         }
         #endregion
+
+        private void thicknessLabel_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void settingsGroupBox_Enter(object sender, EventArgs e)
+        {
+
+        }
     }
 }
