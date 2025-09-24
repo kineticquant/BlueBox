@@ -17,19 +17,22 @@ public static class Win32Api
     #region Constants
     // Win Styles
     public const int GWL_EXSTYLE = -20;
+    public const int GWL_HWNDPARENT = -8;
     public const int WS_EX_LAYERED = 0x80000;
     public const int WS_EX_TRANSPARENT = 0x20;
     public const int WS_EX_NOACTIVATE = 0x08000000;
     public const int WS_EX_TOOLWINDOW = 0x80;
 
-    // DWM 
+    // DWM Attr
     public const int DWMWA_CLOAKED = 14;
+ 
+    public const int DWMWA_EXTENDED_FRAME_BOUNDS = 9;
 
-    // SetWindowPos Flags
+    // SetWindowPos Flag
     public static readonly IntPtr HWND_TOPMOST = new IntPtr(-1);
     public const uint SWP_NOACTIVATE = 0x0010;
 
-    // Win Event Constants
+    // Win Events
     public const uint WINEVENT_OUTOFCONTEXT = 0;
     public const uint EVENT_OBJECT_CREATE = 0x8000;
     public const uint EVENT_OBJECT_DESTROY = 0x8001;
@@ -73,6 +76,15 @@ public static class Win32Api
     public static extern bool UnhookWinEvent(IntPtr hWinEventHook);
 
     [DllImport("dwmapi.dll")]
+    public static extern int DwmGetWindowAttribute(IntPtr hwnd, int dwAttribute, out RECT pvAttribute, int cbAttribute);
+
+    [DllImport("dwmapi.dll")]
     public static extern int DwmGetWindowAttribute(IntPtr hwnd, int dwAttribute, out bool pvAttribute, int cbAttribute);
+
+    // ran into issues with this forcing invalid windows
+    //[DllImport("user32.dll")]
+    //[return: MarshalAs(UnmanagedType.Bool)]
+    //public static extern bool IsWindow(IntPtr hWnd);
+
     #endregion
 }
